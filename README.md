@@ -16,8 +16,6 @@ GET YOUTUBE SUBSCRIBERS
 - [Prerequisites ](#prerequisites)
 - [Installation & Run](#installation-and-run)
 - [API Reference ](#api-reference)
-- [Contribute ](#contribute)
-- [Contributors ](#contributors)
 - [License ](#license)
 - [Contact ](#contact)
 - [Acknowledgments ](#acknowledgments)
@@ -52,7 +50,7 @@ To run this project locally, make sure you have the following installed:
 ## Installation and Run
 1. Clone the repository from GitHub:
     ```
-     git clone https://github.com/danish999md/GET-YOUTUBE-SUBSCRIBERS.git
+     https://github.com/danish999md/GET-YOUTUBE-SUBSCRIBERS.git
     ```
 2. Redirect to the project folder:
     ```
